@@ -17,5 +17,4 @@ See the [PDF document](https://github.com/Element84/vector-embeddings-catalog-wh
 
 # Acknowledgements
 
-We'd like to thank the [Earth Genome](https://www.earthgenome.org/) team, Dan Pilone (Element 84), Julia Signell (Element 84), and
-Sara Mack (Element 84) for their support in providing input and reviews for this paper.
+We'd like to thank the [Earth Genome](https://www.earthgenome.org/) team, Dan Pilone (Element 84), Julia Signell (Element 84), Ryan Abbott (Element 84) and Sara Mack (Element 84) for their support in providing input and reviews for this paper.
