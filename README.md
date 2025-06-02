@@ -11,4 +11,8 @@ We propose creating a centralized vector embeddings catalog that enables users t
 We argue how this effort aligns well with NASA’s declared goals of accelerating data discovery and democratizing data access and why NASA is uniquely positioned to undertake it. We further lay out a phased program for building this catalog and discuss important challenges and risks that will need to be addressed along the way.
 
 # White Paper
-See the PDF document in this repository for the full paper.
+See the [PDF document](https://github.com/Element84/vector-embeddings-catalog-whitepaper/blob/main/VectorEmbeddings_WhitePaper_May2025.pdf) in this repository for the full paper.
+
+# Acknowledgements
+
+We'd like to thank [Earth Genome](https://www.earthgenome.org/) for their support in providing input and reviews for this paper.
