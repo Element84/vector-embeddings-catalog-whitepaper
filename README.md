@@ -2,6 +2,8 @@
 
  *A catalog of this nature would search the Earth, understand crucial changes, and facilitate democratization*
 
+Authors: Jason Gilman, Adeel Hassan, Nathan Zimmerman
+
 # Abstract
 
 Massive Earth Observation (EO) archives containing hundreds of petabytes of data offer a huge potential for understanding the Earth’s resources and potential hazards to security while also addressing societal challenges. Even so, extracting actionable insights remains a challenge. This data requires specialized knowledge in machine learning and geospatial expertise as well as significant computational resources. While the size and value of these archives is constantly increasing, we are not making meaningful progress fast enough to handle the challenges of our changing world. 
@@ -15,4 +17,5 @@ See the [PDF document](https://github.com/Element84/vector-embeddings-catalog-wh
 
 # Acknowledgements
 
-We'd like to thank [Earth Genome](https://www.earthgenome.org/) for their support in providing input and reviews for this paper.
+We'd like to thank the [Earth Genome](https://www.earthgenome.org/) team, Dan Pilone (Element 84), Julia Signell (Element 84), and
+Sara Mack (Element 84) for their support in providing input and reviews for this paper.
